@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sametkarakus
 - 👀 I’m interested in ..software testing.
 - 🌱 I’m currently learning .test automation..
-- 💞️ I’m looking to collaborate on .Etsy..
+- 💞️ I’m looking to collaborate on Software Test Engineering
 - 📫 How to reach me abdulsametkarakus@outlook.com...
 
 <!---
