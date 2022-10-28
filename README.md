@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sametkarakus
-- 👀 I’m interested in ..software testing.
-- 🌱 I’m currently learning .test automation..
-- 💞️ I’m looking to collaborate on Software Test Engineering
-- 📫 How to reach me abdulsametkarakus@outlook.com...
+- 👀 I’m interested in Test Automation, Software Testing
+- 🌱 I’m currently learning Java, Selenium, Golang
+- 💞️ I’m looking to collaborate on QA Engineering
+- 📫 How to reach me abdulsametkarakus@outlook.com
 
 <!---
 sametkarakus/sametkarakus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
